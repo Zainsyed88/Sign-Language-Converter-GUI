@@ -1,0 +1,2 @@
+# Sign-Language-Converter-GUI
+Sign Language Converter is an program which is built to detect the hand signs and then convert them into short english sentences as well as it can convert the text into sound which also to help the user to understand the text in much better way. To make this whole process user friendly a GUI(Graphical User Interface) was developed so it can help the user too navigate through the app easily and efficiently.
